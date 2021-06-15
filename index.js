@@ -8,8 +8,7 @@ console.log(add(7,4));
 
 function subtract(x, y) {
     let minus = x - y;
-    return minus
-
+    return minus;
 }
 
 console.log(subtract(7, 4));
