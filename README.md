@@ -9,5 +9,6 @@ Simple calculator that takes two numbers and can peform four operations (additio
 ## Authors
 **Hlamulo**
 - Github: [@Hlamulo-Mav](https://github.com/Hlamulo-Mav)  
+
 **Nothemba**
 - Github: [@nothembah](https://github.com/nothembah)
