@@ -11,11 +11,14 @@ function multiply(num1, num2){
     return num1 * num2;
 }
 
-let x = 7;
-let y = 4;
+function divide(num1, num2){
+    return num1 / num2;
+}
 
-console.log(add(x, y));
+console.log(add(7, 4));
 
-console.log(subtract(x, y));
+console.log(subtract(7, 4));
 
-console.log(multiply(x, y));
+console.log(multiply(7, 4));
+
+console.log(divide(7, 4));
