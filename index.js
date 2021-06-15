@@ -1,8 +1,15 @@
 function add(num1, num2){
+    
     return num1 + num2;
 }
 
-let x = 7;
-let y = 4;
+console.log(add(7,4));
 
-console.log(add(x,y));
+
+function subtract(x, y) {
+    let minus = x - y;
+    return minus
+
+}
+
+console.log(subtract(7, 4));
