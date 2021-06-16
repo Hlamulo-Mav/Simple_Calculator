@@ -1,6 +1,6 @@
 # Simple_Calculator
 
-This project contains Simple calculator functions that takes two numbers and can peform four operations (addition, subtraction, multiplication and division). It was developed
+This project contains Simple calculator functions that takes two numbers and can peform four operations (addition, subtraction, multiplication and division). It was developed for learning purposes.
 
 ## Built With
 - Html
@@ -15,16 +15,16 @@ To get a local copy up and running follow these simple example steps.
 - Text Editor 
 
 ### Usage
-cotent
+- enter the directory where you cloned or downloaded the project and open index.html file using your favorite browser
 
 ## Authors
-:bust_in_silhouette:**Hlamulo**
+:bust_in_silhouette: **Hlamulo**
 - Github: [@Hlamulo-Mav](https://github.com/Hlamulo-Mav)  
 
-:bust_in_silhouette:**Nothemba**
+:bust_in_silhouette: **Nothemba**
 - Github: [@nothembah](https://github.com/nothembah)
 
-## Contributing
+## :handshake: Contributing
 Contributions, issues and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/Hlamulo-Mav/Simple_Calculator/issues)
 
