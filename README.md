@@ -34,3 +34,7 @@ kindly give this repository a :star: if you like the project!
 
 ## Acknowledgements
 - Girlcode Team  
+
+## License
+
+[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licenced
