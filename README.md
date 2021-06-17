@@ -14,9 +14,6 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 - Text Editor 
 
-### Usage
-- Enter the directory where you cloned or downloaded the project and open index.html file using your favorite browser
-
 ## Authors
 :bust_in_silhouette: **Hlamulo**
 - Github: [@Hlamulo-Mav](https://github.com/Hlamulo-Mav)  
