@@ -15,7 +15,7 @@ To get a local copy up and running follow these simple example steps.
 - Text Editor 
 
 ### Usage
-- enter the directory where you cloned or downloaded the project and open index.html file using your favorite browser
+- Enter the directory where you cloned or downloaded the project and open index.html file using your favorite browser
 
 ## Authors
 :bust_in_silhouette: **Hlamulo**
@@ -37,4 +37,4 @@ kindly give this repository a :star: if you like the project!
 
 ## License
 
-[MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licenced
+This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
